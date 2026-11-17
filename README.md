@@ -2,6 +2,7 @@
 
 ## Companies
 TerraPower
+
 https://www.linkedin.com/company/oklo/
 https://www.linkedin.com/company/nuscale-power/
 https://www.linkedin.com/company/x-energy/
